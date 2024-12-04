@@ -11,7 +11,7 @@ import org.toaha.Datter;
 
 public class Main extends Datter {
     public static void main(String[] args) {
-        String date = "11:59:57PM - 28/02/3028";
+        String date = "11:59:57PM - 28/02/3028"; //Maintain this format always.
         
         Datter datter = new Datter();
         
